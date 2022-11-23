@@ -1,8 +1,6 @@
-A collection of AE plugins written with the After Effects SDK.
-
+Some AE plugins written with the After Effects SDK.
+Welcome to contribute add new ones & improve them.
 To compile them yourself, [get the After Effects SDK](https://www.adobe.io/apis/creativecloud/aftereffects.html).
-
-To install, [download the files](https://github.com/meatbags/after-effects-plugins/tree/master/build) and copy them to your AE plugin directory (ie: `C:\Program Files\Adobe\Adobe After Effects [version]\Support Files\Plug-ins`).
 
 # Halftone
 A colour half-tone plugin with lots of options. Sizes, shapes, and independent channel rotation.
